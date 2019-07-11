@@ -2,8 +2,14 @@ seed_cultrue = [
     { 
         'stage' :'Day 1', 
         'ingredients': { 
-            'flour': { 'description': 'coarse whole wheat or whole rye', 'grams': 120.5 }, 
-            'pineapple juice': { 'description': 'unsweetened', 'grams': 113 } 
+            'flour': { 
+                'description': 'coarse whole wheat or whole rye', 
+                'grams': 120.5 
+                }, 
+            'pineapple juice': { 
+                'description': 'unsweetened', 
+                'grams': 113 
+                } 
             } 
     }, { 
         'stage' :'Day 2', 
